@@ -1,10 +1,10 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Crewmates*
 
-Submitted by: **Your Name Here**
+Submitted by: **Keianna Brown**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
