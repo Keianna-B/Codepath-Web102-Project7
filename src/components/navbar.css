@@ -1,0 +1,22 @@
+.navbar {
+    height: 100%;
+    width: 12%;
+    position: fixed;
+    font-size: larger;
+    font-weight: bolder;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #5b5a5a;
+    padding: 15px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.listitem {
+    margin-top: 25px;
+    margin-bottom: 5px;
+    color: white;
+    list-style-type: none;
+    font-size: larger;
+}

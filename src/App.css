@@ -1,0 +1,68 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.homeimg {
+  width: 400px;
+  height: auto;
+}
+
+.createimg {
+  width: 200px;
+  height: auto;
+}
+
+.stackpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+}
+
+.text {
+  color: white;
+}
+
+.forminput {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 15px;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px #0003, 0 6px 20px #00000030;
+  background-color: #a2a1a180;
+}
+
+.formcontainer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin: auto;
+  position: relative;
+  font-size: larger;
+}
+
+.formtext {
+  color: white;    
+  list-style-type: none;
+  font-weight: 250;
+  font-size: smaller;
+}
+
+.formlabels {
+  color: white;    
+  list-style-type: none;
+  font-weight: 500;
+}
+
+.crewmatecontainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 10px; 
+  justify-content: center; 
+}

@@ -1,0 +1,58 @@
+.crewmate-card {
+    border-radius: 10px;
+    border-style: double;
+    border-color: #00000043;
+    height: auto;
+    box-shadow: 0 0 5px 2px #faf9f94d;
+    margin: 20px;
+    padding: 25px;
+    text-align: center;
+    width: 300px;
+    background-color: #5b5a5a;
+}
+
+.crewmate-card#red {
+    box-shadow: 0 4px 8px rgba(255, 0, 0, 0.3);
+}
+
+.crewmate-card#green {
+    box-shadow: 0 4px 8px rgba(0, 128, 0, 0.3);
+}
+
+.crewmate-card#blue {
+    box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3);
+}
+
+.crewmate-card#purple {
+    box-shadow: 0 4px 8px rgba(128, 0, 128, 0.3);
+}
+
+.crewmate-card#yellow {
+    box-shadow: 0 4px 8px rgba(255, 255, 0, 0.3);
+}
+
+.crewmate-card#orange {
+    box-shadow: 0 4px 8px rgba(255, 165, 0, 0.3);
+}
+
+.crewmate-card#pink {
+    box-shadow: 0 4px 8px rgba(255, 192, 203, 0.3);
+}
+
+.crewmate-card#rainbow {
+    box-shadow: 0 4px 8px rgba(255, 0, 0, 0.3),
+                0 4px 8px rgba(255, 165, 0, 0.3),
+                0 4px 8px rgba(255, 255, 0, 0.3),
+                0 4px 8px rgba(0, 128, 0, 0.3),
+                0 4px 8px rgba(0, 0, 255, 0.3),
+                0 4px 8px rgba(75, 0, 130, 0.3),
+                0 4px 8px rgba(238, 130, 238, 0.3);
+}
+
+.label {
+    color: white;
+}
+
+.propcolor {
+    background-color: grey;
+}
